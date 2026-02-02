@@ -1,4 +1,4 @@
-# Bikya Frontend - E-commerce Platform
+# Bikya  - E-commerce Platform
 
 ## 📋 Project Overview
 
